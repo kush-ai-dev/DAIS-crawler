@@ -1,42 +1,15 @@
 # DAIS Crawler - Docker build for Railway
-# Using official Python base with all build tools
-FROM python:3.11-slim
+# Using Playwright's official Python image with all dependencies pre-installed
+FROM mcr.microsoft.com/playwright/python:v1.40.0-jammy
 
 # Set working directory
 WORKDIR /app
-
-# Install system dependencies required for Playwright and build tools
-# Kept minimal to reduce image size
-RUN apt-get update && apt-get install -y --no-install-recommends \
-    ca-certificates \
-    curl \
-    wget \
-    # Required for Playwright Chromium
-    libc6 \
-    libstdc++6 \
-    libx11-6 \
-    libxcb1 \
-    libxext6 \
-    libxrender1 \
-    libnss3 \
-    libgconf-2-4 \
-    libxss1 \
-    fonts-liberation \
-    libappindicator1 \
-    libxrandr2 \
-    libgbm1 \
-    xdg-utils \
-    && rm -rf /var/lib/apt/lists/*
 
 # Copy requirements first for better layer caching
 COPY requirements.txt .
 
 # Install Python dependencies
 RUN pip install --no-cache-dir -r requirements.txt
-
-# Install Playwright browsers
-# Uses Playwright's built-in browser installation which handles all dependencies
-RUN python -m playwright install chromium
 
 # Copy application code
 COPY . .
