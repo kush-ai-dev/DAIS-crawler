@@ -1,0 +1,656 @@
+{
+  "meta": {
+    "url": "https://digidarts.com",
+    "final_url": "https://www.digidarts.com/",
+    "rendered_via": "playwright",
+    "audited_at": "2026-04-20T07:35:28.686948"
+  },
+  "report": {
+    "url": "https://www.digidarts.com/",
+    "status_code": 301,
+    "rendered_via": "playwright",
+    "load_time_ms": 48804,
+    "page_size_kb": 270.72,
+    "title": "Best Performance Driven Digital Marketing Agency in India | Digidarts - Best Performance Driven Digital Marketing Agency in India | Digidarts",
+    "title_length": 141,
+    "meta_description": null,
+    "meta_description_length": 0,
+    "h1_tags": [
+      "Industry SpecificExpertise",
+      "360\u00b0 PerformanceSolutions"
+    ],
+    "h2_count": 16,
+    "h3_count": 8,
+    "canonical_url": "https://www.digidarts.com/",
+    "robots_meta": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "lang_attr": "en-IN",
+    "word_count": 1172,
+    "paragraph_count": 32,
+    "internal_links": 105,
+    "external_links": 82,
+    "internal_link_urls": [
+      "https://www.digidarts.com/mea",
+      "https://www.digidarts.com/tmp/pin-up-onlayn-kazino-depozity-vyvod-sredstv/",
+      "https://www.digidarts.com/blogs/tragamonedas-chicken-road-gallinas-cruzando-seguras/",
+      "https://www.digidarts.com/digital-marketing-services/d-global-expanding-your-brands-reach-with-global-seo/",
+      "https://www.digidarts.com/blogs/uk-plinko-mobile-game-access/",
+      "https://www.digidarts.com/blogs/igrovoy-assortiment-pin-up/",
+      "https://www.digidarts.com/blog/donde-jugar-plinko-online-seguro/",
+      "https://www.digidarts.com/digital-marketing-services/search-engine-optimization/",
+      "https://www.digidarts.com/blogs/luchshie-onlayn-kazino-reyting/",
+      "https://www.digidarts.com/blog/mostbet-kyrgyzstan-onlayn-kazinosu-chynygy-dilerler-menen-oyundar/",
+      "https://www.digidarts.com/blogs/1win-oficialnyy-sayt-dlya-stavok-na-sport-i-kazino/",
+      "https://www.digidarts.com/new/pin-up-onlayn-kazino-depozity-vyvod-sredstv/",
+      "https://www.digidarts.com/new/how-to-begin-playing-online-daman-game/",
+      "https://www.digidarts.com/master-case-studies",
+      "https://www.digidarts.com/digital-marketing-services/media-buying/",
+      "https://www.digidarts.com/tmp/plinko-spel-functionaliteiten/",
+      "https://www.digidarts.com/digital-marketing-services/d-local-ai-powered-local-seo-near-me-optimization/",
+      "https://www.digidarts.com/performance-solutions/retail-performance-marketing/",
+      "https://www.digidarts.com/new/olymp-kazino-kazahstan-platezhnye-metody/",
+      "https://www.digidarts.com/blogs/mostbet-onlayn-kazino-i-stavki/",
+      "https://www.digidarts.com/meeshocasestudy/",
+      "https://www.digidarts.com/new/registraciya-i-verifikaciya-v-pinco/",
+      "https://www.digidarts.com/digital-marketing-services/search-engine-optimization",
+      "https://www.digidarts.com/blog/royal-reels-casino-australia-free-spins-daily-promotions/",
+      "https://www.digidarts.com/new/podderzhka-igrokov-v-pinco/",
+      "https://www.digidarts.com/blog/resena-de-1win-en-costa-rica-plataforma-de-apuestas-y-casino-online/",
+      "https://www.digidarts.com/digital-marketing-services/social-media-marketing/",
+      "https://www.digidarts.com/media-shout-outs-featured/",
+      "javascript:void(0);",
+      "https://www.digidarts.com/blogs/olimp-onlayn-kazino-kazahstan/",
+      "https://www.digidarts.com/tmp/gioco-plinko-come-funziona/",
+      "https://www.digidarts.com/dashIQ/",
+      "https://www.digidarts.com/blogs/olymp-onlayn-kazino-v-kazahstane-vhod/",
+      "https://www.digidarts.com/tmp/bezopasnost-onlayn-kazino-pin-up/",
+      "https://www.digidarts.com/mea/",
+      "https://www.digidarts.com/performance-solutions/mobile-app-performance-marketing/",
+      "https://www.digidarts.com/blogs/mostbet-onlayn-kazino-v-kazahstane/",
+      "https://www.digidarts.com/dashIQ",
+      "https://www.digidarts.com/blogs/magyar-online-kaszinok-mobilverzioval/",
+      "https://www.digidarts.com/new/meilleurs-casinos-en-ligne-france/",
+      "https://www.digidarts.com/blog/",
+      "https://www.digidarts.com/blog/pin-up-apuestas-deportivas-seguras-en-mexico/",
+      "https://www.digidarts.com/tmp/1win-oficialnyy-sayt-bukmekera-obzor-i-zerkalo/",
+      "https://www.digidarts.com/tmp/luchshie-onlayn-kazino-reyting/",
+      "https://www.digidarts.com/contact-2/",
+      "https://www.digidarts.com/blogs/2025-casibom-kasino-resmi-giris/",
+      "https://www.digidarts.com/tmp/1win-oficialnyy-sayt-bukmekerskoy-kontory-i-kazino/",
+      "https://www.digidarts.com/performance-solutions/marketplace-performance-marketing/",
+      "https://www.digidarts.com/new/gama-kazino-onlayn-gama-casino/",
+      "https://www.digidarts.com/blog/casinos-online-mas-populares-en-mexico/"
+    ],
+    "broken_link_candidates": [],
+    "total_images": 147,
+    "images_missing_alt": 49,
+    "images_missing_alt_urls": [
+      "https://px.ads.linkedin.com/collect/?pid=1021723&fmt=gif",
+      "https://www.digidarts.com/wp-content/uploads/2025/03/6.png",
+      "https://www.digidarts.com/wp-content/uploads/2025/03/7.png",
+      "https://www.digidarts.com/wp-content/uploads/2025/03/8.png",
+      "https://www.digidarts.com/wp-content/uploads/2025/03/9.png",
+      "https://www.digidarts.com/wp-content/uploads/2025/03/10.png",
+      "https://www.digidarts.com/wp-content/uploads/2025/03/11.png",
+      "https://www.digidarts.com/wp-content/uploads/2025/03/12.png",
+      "https://www.digidarts.com/wp-content/uploads/2025/03/13.png",
+      "https://www.digidarts.com/wp-content/uploads/2025/03/6.png"
+    ],
+    "is_https": true,
+    "has_viewport_meta": true,
+    "has_schema_markup": true,
+    "schema_count": 4,
+    "schema_types": [
+      "WebPage",
+      "BreadcrumbList",
+      "WebSite",
+      "Organization"
+    ],
+    "schemas": [
+      {
+        "id": "https://www.digidarts.com/",
+        "type": "WebPage",
+        "context": "https://schema.org",
+        "block_index": 0,
+        "is_graph_item": true,
+        "graph_position": 0,
+        "fields_present": [
+          "url",
+          "name",
+          "isPartOf",
+          "about",
+          "datePublished",
+          "dateModified",
+          "breadcrumb",
+          "inLanguage",
+          "potentialAction"
+        ],
+        "all_fields": [
+          "@context",
+          "@type",
+          "@id",
+          "url",
+          "name",
+          "isPartOf",
+          "about",
+          "datePublished",
+          "dateModified",
+          "breadcrumb",
+          "inLanguage",
+          "potentialAction"
+        ],
+        "data": {
+          "@context": "https://schema.org",
+          "@type": "WebPage",
+          "@id": "https://www.digidarts.com/",
+          "url": "https://www.digidarts.com/",
+          "name": "Best Performance Driven Digital Marketing Agency in India | Digidarts - Best Performance Driven Digital Marketing Agency in India | Digidarts",
+          "isPartOf": {
+            "@type": "WebSite",
+            "@id": "https://www.digidarts.com/#website",
+            "url": "https://www.digidarts.com/",
+            "name": "Best Performance Driven Digital Marketing Agency in India | Digidarts",
+            "description": "",
+            "publisher": {
+              "@type": "Organization",
+              "@id": "https://www.digidarts.com/#organization",
+              "name": "Best Performance Driven Digital Marketing Agency in India | Digidarts",
+              "url": "https://www.digidarts.com/",
+              "logo": {
+                "@type": "ImageObject",
+                "inLanguage": "en-US",
+                "@id": "https://www.digidarts.com/#/schema/logo/image/",
+                "url": "https://www.digidarts.com/wp-content/uploads/2024/08/hd-logo-digidarts-1-1.png",
+                "contentUrl": "https://www.digidarts.com/wp-content/uploads/2024/08/hd-logo-digidarts-1-1.png",
+                "width": 219,
+                "height": 221,
+                "caption": "Best Performance Driven Digital Marketing Agency in India | Digidarts"
+              },
+              "image": {
+                "@id": "https://www.digidarts.com/#/schema/logo/image/",
+                "_note": "referenced object defined elsewhere in graph"
+              }
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.digidarts.com/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "en-US"
+          },
+          "about": {
+            "@type": "Organization",
+            "@id": "https://www.digidarts.com/#organization",
+            "name": "Best Performance Driven Digital Marketing Agency in India | Digidarts",
+            "url": "https://www.digidarts.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://www.digidarts.com/#/schema/logo/image/",
+              "url": "https://www.digidarts.com/wp-content/uploads/2024/08/hd-logo-digidarts-1-1.png",
+              "contentUrl": "https://www.digidarts.com/wp-content/uploads/2024/08/hd-logo-digidarts-1-1.png",
+              "width": 219,
+              "height": 221,
+              "caption": "Best Performance Driven Digital Marketing Agency in India | Digidarts"
+            },
+            "image": {
+              "@id": "https://www.digidarts.com/#/schema/logo/image/",
+              "_note": "referenced object defined elsewhere in graph"
+            }
+          },
+          "datePublished": "2024-10-19T06:47:44+00:00",
+          "dateModified": "2026-01-14T09:11:43+00:00",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "@id": "https://www.digidarts.com/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home"
+              }
+            ]
+          },
+          "inLanguage": "en-US",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://www.digidarts.com/"
+              ]
+            }
+          ]
+        },
+        "validator_display": {
+          "@context": "https://schema.org",
+          "@type": "WebPage",
+          "@id": "https://www.digidarts.com/",
+          "url": "https://www.digidarts.com/",
+          "name": "Best Performance Driven Digital Marketing Agency in India | Digidarts - Best Performance Driven Digital Marketing Agency in India | Digidarts",
+          "isPartOf": {
+            "@type": "WebSite",
+            "@id": "https://www.digidarts.com/#website",
+            "url": "https://www.digidarts.com/",
+            "name": "Best Performance Driven Digital Marketing Agency in India | Digidarts",
+            "description": "",
+            "publisher": {
+              "@type": "Organization",
+              "@id": "https://www.digidarts.com/#organization",
+              "name": "Best Performance Driven Digital Marketing Agency in India | Digidarts",
+              "url": "https://www.digidarts.com/",
+              "logo": {
+                "@type": "ImageObject",
+                "inLanguage": "en-US",
+                "@id": "https://www.digidarts.com/#/schema/logo/image/",
+                "url": "https://www.digidarts.com/wp-content/uploads/2024/08/hd-logo-digidarts-1-1.png",
+                "contentUrl": "https://www.digidarts.com/wp-content/uploads/2024/08/hd-logo-digidarts-1-1.png",
+                "width": 219,
+                "height": 221,
+                "caption": "Best Performance Driven Digital Marketing Agency in India | Digidarts"
+              },
+              "image": {
+                "@id": "https://www.digidarts.com/#/schema/logo/image/",
+                "_note": "referenced object defined elsewhere in graph"
+              }
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.digidarts.com/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "en-US"
+          },
+          "about": {
+            "@type": "Organization",
+            "@id": "https://www.digidarts.com/#organization",
+            "name": "Best Performance Driven Digital Marketing Agency in India | Digidarts",
+            "url": "https://www.digidarts.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://www.digidarts.com/#/schema/logo/image/",
+              "url": "https://www.digidarts.com/wp-content/uploads/2024/08/hd-logo-digidarts-1-1.png",
+              "contentUrl": "https://www.digidarts.com/wp-content/uploads/2024/08/hd-logo-digidarts-1-1.png",
+              "width": 219,
+              "height": 221,
+              "caption": "Best Performance Driven Digital Marketing Agency in India | Digidarts"
+            },
+            "image": {
+              "@id": "https://www.digidarts.com/#/schema/logo/image/",
+              "_note": "referenced object defined elsewhere in graph"
+            }
+          },
+          "datePublished": "2024-10-19T06:47:44+00:00",
+          "dateModified": "2026-01-14T09:11:43+00:00",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "@id": "https://www.digidarts.com/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home"
+              }
+            ]
+          },
+          "inLanguage": "en-US",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://www.digidarts.com/"
+              ]
+            }
+          ]
+        },
+        "validation": [],
+        "errors": 0,
+        "warnings": 0
+      },
+      {
+        "id": "https://www.digidarts.com/#breadcrumb",
+        "type": "BreadcrumbList",
+        "context": "https://schema.org",
+        "block_index": 0,
+        "is_graph_item": true,
+        "graph_position": 1,
+        "fields_present": [
+          "itemListElement"
+        ],
+        "all_fields": [
+          "@context",
+          "@type",
+          "@id",
+          "itemListElement"
+        ],
+        "data": {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "@id": "https://www.digidarts.com/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home"
+            }
+          ]
+        },
+        "validator_display": {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "@id": "https://www.digidarts.com/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home"
+            }
+          ]
+        },
+        "validation": [],
+        "errors": 0,
+        "warnings": 0
+      },
+      {
+        "id": "https://www.digidarts.com/#website",
+        "type": "WebSite",
+        "context": "https://schema.org",
+        "block_index": 0,
+        "is_graph_item": true,
+        "graph_position": 2,
+        "fields_present": [
+          "url",
+          "name",
+          "description",
+          "publisher",
+          "potentialAction",
+          "inLanguage"
+        ],
+        "all_fields": [
+          "@context",
+          "@type",
+          "@id",
+          "url",
+          "name",
+          "description",
+          "publisher",
+          "potentialAction",
+          "inLanguage"
+        ],
+        "data": {
+          "@context": "https://schema.org",
+          "@type": "WebSite",
+          "@id": "https://www.digidarts.com/#website",
+          "url": "https://www.digidarts.com/",
+          "name": "Best Performance Driven Digital Marketing Agency in India | Digidarts",
+          "description": "",
+          "publisher": {
+            "@type": "Organization",
+            "@id": "https://www.digidarts.com/#organization",
+            "name": "Best Performance Driven Digital Marketing Agency in India | Digidarts",
+            "url": "https://www.digidarts.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://www.digidarts.com/#/schema/logo/image/",
+              "url": "https://www.digidarts.com/wp-content/uploads/2024/08/hd-logo-digidarts-1-1.png",
+              "contentUrl": "https://www.digidarts.com/wp-content/uploads/2024/08/hd-logo-digidarts-1-1.png",
+              "width": 219,
+              "height": 221,
+              "caption": "Best Performance Driven Digital Marketing Agency in India | Digidarts"
+            },
+            "image": {
+              "@id": "https://www.digidarts.com/#/schema/logo/image/",
+              "_note": "referenced object defined elsewhere in graph"
+            }
+          },
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://www.digidarts.com/?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "en-US"
+        },
+        "validator_display": {
+          "@context": "https://schema.org",
+          "@type": "WebSite",
+          "@id": "https://www.digidarts.com/#website",
+          "url": "https://www.digidarts.com/",
+          "name": "Best Performance Driven Digital Marketing Agency in India | Digidarts",
+          "description": "",
+          "publisher": {
+            "@type": "Organization",
+            "@id": "https://www.digidarts.com/#organization",
+            "name": "Best Performance Driven Digital Marketing Agency in India | Digidarts",
+            "url": "https://www.digidarts.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://www.digidarts.com/#/schema/logo/image/",
+              "url": "https://www.digidarts.com/wp-content/uploads/2024/08/hd-logo-digidarts-1-1.png",
+              "contentUrl": "https://www.digidarts.com/wp-content/uploads/2024/08/hd-logo-digidarts-1-1.png",
+              "width": 219,
+              "height": 221,
+              "caption": "Best Performance Driven Digital Marketing Agency in India | Digidarts"
+            },
+            "image": {
+              "@id": "https://www.digidarts.com/#/schema/logo/image/",
+              "_note": "referenced object defined elsewhere in graph"
+            }
+          },
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://www.digidarts.com/?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "en-US"
+        },
+        "validation": [],
+        "errors": 0,
+        "warnings": 0
+      },
+      {
+        "id": "https://www.digidarts.com/#organization",
+        "type": "Organization",
+        "context": "https://schema.org",
+        "block_index": 0,
+        "is_graph_item": true,
+        "graph_position": 3,
+        "fields_present": [
+          "name",
+          "url",
+          "logo",
+          "image"
+        ],
+        "all_fields": [
+          "@context",
+          "@type",
+          "@id",
+          "name",
+          "url",
+          "logo",
+          "image"
+        ],
+        "data": {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "@id": "https://www.digidarts.com/#organization",
+          "name": "Best Performance Driven Digital Marketing Agency in India | Digidarts",
+          "url": "https://www.digidarts.com/",
+          "logo": {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://www.digidarts.com/#/schema/logo/image/",
+            "url": "https://www.digidarts.com/wp-content/uploads/2024/08/hd-logo-digidarts-1-1.png",
+            "contentUrl": "https://www.digidarts.com/wp-content/uploads/2024/08/hd-logo-digidarts-1-1.png",
+            "width": 219,
+            "height": 221,
+            "caption": "Best Performance Driven Digital Marketing Agency in India | Digidarts"
+          },
+          "image": {
+            "@id": "https://www.digidarts.com/#/schema/logo/image/",
+            "_note": "referenced object defined elsewhere in graph"
+          }
+        },
+        "validator_display": {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "@id": "https://www.digidarts.com/#organization",
+          "name": "Best Performance Driven Digital Marketing Agency in India | Digidarts",
+          "url": "https://www.digidarts.com/",
+          "logo": {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://www.digidarts.com/#/schema/logo/image/",
+            "url": "https://www.digidarts.com/wp-content/uploads/2024/08/hd-logo-digidarts-1-1.png",
+            "contentUrl": "https://www.digidarts.com/wp-content/uploads/2024/08/hd-logo-digidarts-1-1.png",
+            "width": 219,
+            "height": 221,
+            "caption": "Best Performance Driven Digital Marketing Agency in India | Digidarts"
+          },
+          "image": {
+            "@id": "https://www.digidarts.com/#/schema/logo/image/",
+            "_note": "referenced object defined elsewhere in graph"
+          }
+        },
+        "validation": [
+          {
+            "severity": "warning",
+            "field": "image",
+            "issue": "unresolved_id_reference",
+            "message": "'image' references @id 'https://www.digidarts.com/#/schema/logo/image/' which was not found in this page's schema graph"
+          }
+        ],
+        "errors": 0,
+        "warnings": 1
+      }
+    ],
+    "schema_validation_issues": [],
+    "microdata_types": [],
+    "rdfa_types": [],
+    "has_open_graph": true,
+    "og_title": "Best Performance Driven Digital Marketing Agency in India | Digidarts - Best Performance Driven Digital Marketing Agency in India | Digidarts",
+    "og_description": null,
+    "og_image": null,
+    "has_twitter_card": true,
+    "has_hreflang": false,
+    "render_blocking_scripts": 26,
+    "has_gzip": false,
+    "has_cache_headers": true,
+    "has_lazy_loading": false,
+    "security_headers": {
+      "x-frame-options": {
+        "present": false,
+        "description": "Prevents clickjacking attacks"
+      },
+      "x-content-type-options": {
+        "present": false,
+        "description": "Prevents MIME sniffing"
+      },
+      "strict-transport-security": {
+        "present": false,
+        "description": "Enforces HTTPS (HSTS)"
+      },
+      "content-security-policy": {
+        "present": true,
+        "description": "Controls resource loading (CSP)"
+      },
+      "referrer-policy": {
+        "present": false,
+        "description": "Controls referrer information"
+      }
+    },
+    "mixed_content_count": 0,
+    "has_thin_content": false,
+    "generic_anchor_count": 0,
+    "duplicate_title": false,
+    "duplicate_meta": false,
+    "severity_score": 66,
+    "issues": [
+      {
+        "check": "title_too_long",
+        "severity": "warning",
+        "message": "Title tag is 141 chars (max 60)",
+        "value": "Best Performance Driven Digital Marketing Agency in India | Digidarts - Best Performance Driven Digital Marketing Agency in India | Digidarts",
+        "recommendation": "Shorten the title to under 60 characters to avoid truncation in SERPs."
+      },
+      {
+        "check": "missing_meta_description",
+        "severity": "warning",
+        "message": "Page has no meta description",
+        "value": "",
+        "recommendation": "Add a compelling meta description between 120\u2013160 characters."
+      },
+      {
+        "check": "multiple_h1",
+        "severity": "warning",
+        "message": "Page has 2 H1 tags",
+        "value": "['Industry SpecificExpertise', '360\u00b0 PerformanceSolutions']",
+        "recommendation": "Consolidate to a single H1 tag per page."
+      },
+      {
+        "check": "schema_missing_fields",
+        "severity": "info",
+        "message": "1 recommended schema fields are missing across 4 schema(s)",
+        "value": "1",
+        "recommendation": "Fill in all recommended fields to qualify for Google Rich Results."
+      },
+      {
+        "check": "images_missing_alt",
+        "severity": "warning",
+        "message": "49 of 147 images are missing alt text",
+        "value": "49",
+        "recommendation": "Add descriptive alt text to all images for accessibility and image SEO."
+      },
+      {
+        "check": "render_blocking_scripts",
+        "severity": "warning",
+        "message": "26 render-blocking <script> tags in <head>",
+        "value": "26",
+        "recommendation": "Add 'async' or 'defer' to script tags, or move them before </body>."
+      },
+      {
+        "check": "missing_security_headers",
+        "severity": "warning",
+        "message": "4 important security headers are missing",
+        "value": "x-frame-options, x-content-type-options, strict-transport-security, referrer-policy",
+        "recommendation": "Configure your web server to send security headers like HSTS, CSP, X-Frame-Options."
+      }
+    ]
+  }
+}

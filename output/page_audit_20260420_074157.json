@@ -1,0 +1,162 @@
+{
+  "meta": {
+    "url": "https://haldirams.com",
+    "final_url": "https://haldirams.com/",
+    "rendered_via": "playwright",
+    "audited_at": "2026-04-20T07:41:57.031531"
+  },
+  "report": {
+    "url": "https://haldirams.com/",
+    "status_code": 403,
+    "rendered_via": "playwright",
+    "load_time_ms": 9591,
+    "page_size_kb": 0.11,
+    "title": "403 Forbidden",
+    "title_length": 13,
+    "meta_description": null,
+    "meta_description_length": 0,
+    "h1_tags": [
+      "403 Forbidden"
+    ],
+    "h2_count": 0,
+    "h3_count": 0,
+    "canonical_url": null,
+    "robots_meta": null,
+    "lang_attr": null,
+    "word_count": 2,
+    "paragraph_count": 0,
+    "internal_links": 0,
+    "external_links": 0,
+    "internal_link_urls": [],
+    "broken_link_candidates": [],
+    "total_images": 0,
+    "images_missing_alt": 0,
+    "images_missing_alt_urls": [],
+    "is_https": true,
+    "has_viewport_meta": false,
+    "has_schema_markup": false,
+    "schema_count": 0,
+    "schema_types": [],
+    "schemas": [],
+    "schema_validation_issues": [],
+    "microdata_types": [],
+    "rdfa_types": [],
+    "has_open_graph": false,
+    "og_title": null,
+    "og_description": null,
+    "og_image": null,
+    "has_twitter_card": false,
+    "has_hreflang": false,
+    "render_blocking_scripts": 0,
+    "has_gzip": false,
+    "has_cache_headers": false,
+    "has_lazy_loading": false,
+    "security_headers": {
+      "x-frame-options": {
+        "present": false,
+        "description": "Prevents clickjacking attacks"
+      },
+      "x-content-type-options": {
+        "present": false,
+        "description": "Prevents MIME sniffing"
+      },
+      "strict-transport-security": {
+        "present": false,
+        "description": "Enforces HTTPS (HSTS)"
+      },
+      "content-security-policy": {
+        "present": false,
+        "description": "Controls resource loading (CSP)"
+      },
+      "referrer-policy": {
+        "present": false,
+        "description": "Controls referrer information"
+      }
+    },
+    "mixed_content_count": 0,
+    "has_thin_content": true,
+    "generic_anchor_count": 0,
+    "duplicate_title": false,
+    "duplicate_meta": false,
+    "severity_score": 46,
+    "issues": [
+      {
+        "check": "title_too_short",
+        "severity": "warning",
+        "message": "Title tag is only 13 chars",
+        "value": "403 Forbidden",
+        "recommendation": "Expand the title to 30\u201360 characters for better keyword coverage."
+      },
+      {
+        "check": "missing_meta_description",
+        "severity": "warning",
+        "message": "Page has no meta description",
+        "value": "",
+        "recommendation": "Add a compelling meta description between 120\u2013160 characters."
+      },
+      {
+        "check": "missing_canonical",
+        "severity": "warning",
+        "message": "No canonical tag found",
+        "value": "",
+        "recommendation": "Add a <link rel='canonical' href='...'> tag to signal the preferred URL."
+      },
+      {
+        "check": "missing_viewport",
+        "severity": "critical",
+        "message": "No viewport meta tag \u2014 page may not be mobile-friendly",
+        "value": "",
+        "recommendation": "Add <meta name='viewport' content='width=device-width, initial-scale=1'>"
+      },
+      {
+        "check": "missing_lang",
+        "severity": "warning",
+        "message": "HTML tag has no lang attribute",
+        "value": "",
+        "recommendation": "Add lang attribute to <html> tag e.g. <html lang='en'>"
+      },
+      {
+        "check": "missing_open_graph",
+        "severity": "info",
+        "message": "No Open Graph tags found",
+        "value": "",
+        "recommendation": "Add og:title, og:description, og:image for better social sharing previews."
+      },
+      {
+        "check": "missing_twitter_card",
+        "severity": "info",
+        "message": "No Twitter Card meta tags found",
+        "value": "",
+        "recommendation": "Add <meta name='twitter:card' content='summary_large_image'>"
+      },
+      {
+        "check": "missing_schema",
+        "severity": "info",
+        "message": "No structured data found (JSON-LD, Microdata, or RDFa)",
+        "value": "",
+        "recommendation": "Add Schema.org structured data relevant to your page type."
+      },
+      {
+        "check": "thin_content",
+        "severity": "warning",
+        "message": "Only 2 words on page (min recommended: 300)",
+        "value": "2",
+        "recommendation": "Expand page content to at least 300\u2013500 words for better topical relevance."
+      },
+      {
+        "check": "missing_cache_headers",
+        "severity": "info",
+        "message": "No Cache-Control or Expires headers found",
+        "value": "",
+        "recommendation": "Set Cache-Control headers to improve repeat visit performance."
+      },
+      {
+        "check": "missing_security_headers",
+        "severity": "warning",
+        "message": "5 important security headers are missing",
+        "value": "x-frame-options, x-content-type-options, strict-transport-security, content-security-policy, referrer-policy",
+        "recommendation": "Configure your web server to send security headers like HSTS, CSP, X-Frame-Options."
+      }
+    ]
+  }
+}
